@@ -4,7 +4,7 @@ This repository is an attempt to imply some machine learning algorithms on iris 
 
 Create a ml library : <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Iris_Dataset/blob/master/ml_library.ipynb'>notebook</A><BR>
 
-######Topics Covered:
+#####Topics Covered:
 
 - Object oriented programming
 - Rosenblatt's Perceptron
