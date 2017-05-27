@@ -10,3 +10,10 @@ Create a ml library : <A href='http://nbviewer.jupyter.org/github/sametmarasli/P
 - Rosenblatt's Perceptron
 - Adaptive Linear Neuron (Adaline) Rule
 - Stochastic Gradient Descent
+
+Algorithms with sklearn : <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Iris_Dataset/blob/master/ml_with_sklearn.ipynb'>notebook</A><BR>
+
+##### Topics Covered:
+
+- Linear classifiers such as logistic regression
+- Regularization
