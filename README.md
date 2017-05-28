@@ -17,3 +17,7 @@ Algorithms with sklearn : <A href='http://nbviewer.jupyter.org/github/sametmaras
 
 - Linear classifiers such as logistic regression
 - Regularization
+- SVM with gaussian kernel
+- Decision Trees and Random Forests
+- K-nearest Neighbours
+
