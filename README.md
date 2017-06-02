@@ -21,6 +21,14 @@ Algorithms with sklearn : <A href='http://nbviewer.jupyter.org/github/sametmaras
 - Decision Trees and Random Forests
 - K-nearest Neighbours
 
+Data Preprocessing: <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Iris_Dataset/blob/master/ml_data_preprocessing.ipynb'>notebook</A><BR>
+
+##### Topics Covered:
+
+- Dealing with missing data and categorical data
+- Data partitioning and scaling
+- Feature selection
+
 Data Compression with Dimensionality Reduction: <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Iris_Dataset/blob/master/ml_dimensionality_reduction.ipynb'>notebook</A><BR>
 
 ##### Topics Covered:
