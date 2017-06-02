@@ -1,6 +1,6 @@
-# Iris Dataset - Machine Learning
+# Exploring Scikit-learn - Machine Learning
 
-This repository is an attempt to imply some machine learning algorithms on iris dataset with Python 2.7 with the libraries such as pandas, numpy, scikit-learn. (Work in process)
+This repository is an attempt to imply some machine learning algorithms and data science techniques by using scikit-learn with Python 2.7. (Work in process)
 
 Create a ml library : <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Exploring_scikit-learn/blob/master/ml_library.ipynb'>notebook</A><BR>
 
