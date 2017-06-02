@@ -21,3 +21,10 @@ Algorithms with sklearn : <A href='http://nbviewer.jupyter.org/github/sametmaras
 - Decision Trees and Random Forests
 - K-nearest Neighbours
 
+Data Compression with Dimensionality Reduction: <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Iris_Dataset/blob/master/ml_dimensionality_reduction.ipynb'>notebook</A><BR>
+
+##### Topics Covered:
+
+- Principal component analysis
+- Linear Discriminant analysis
+
