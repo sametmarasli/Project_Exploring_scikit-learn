@@ -2,7 +2,7 @@
 
 This repository is an attempt to imply some machine learning algorithms on iris dataset with Python 2.7 with the libraries such as pandas, numpy, scikit-learn. (Work in process)
 
-Create a ml library : <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Iris_Dataset/blob/master/ml_library.ipynb'>notebook</A><BR>
+Create a ml library : <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Exploring_scikit-learn/blob/master/ml_library.ipynb'>notebook</A><BR>
 
 ##### Topics Covered:
 
@@ -11,7 +11,7 @@ Create a ml library : <A href='http://nbviewer.jupyter.org/github/sametmarasli/P
 - Adaptive Linear Neuron (Adaline) Rule
 - Stochastic Gradient Descent
 
-Algorithms with sklearn : <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Iris_Dataset/blob/master/ml_with_sklearn.ipynb'>notebook</A><BR>
+Algorithms with sklearn : <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Exploring_scikit-learn/blob/master/ml_with_sklearn.ipynb'>notebook</A><BR>
 
 ##### Topics Covered:
 
@@ -21,7 +21,7 @@ Algorithms with sklearn : <A href='http://nbviewer.jupyter.org/github/sametmaras
 - Decision Trees and Random Forests
 - K-nearest Neighbours
 
-Data Preprocessing: <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Iris_Dataset/blob/master/ml_data_preprocessing.ipynb'>notebook</A><BR>
+Data Preprocessing: <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Exploring_scikit-learn/blob/master/ml_data_preprocessing.ipynb'>notebook</A><BR>
 
 ##### Topics Covered:
 
@@ -29,7 +29,7 @@ Data Preprocessing: <A href='http://nbviewer.jupyter.org/github/sametmarasli/Pro
 - Data partitioning and scaling
 - Feature selection
 
-Data Compression with Dimensionality Reduction: <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Iris_Dataset/blob/master/ml_dimensionality_reduction.ipynb'>notebook</A><BR>
+Data Compression with Dimensionality Reduction: <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Exploring_scikit-learn/blob/master/ml_dimensionality_reduction.ipynb'>notebook</A><BR>
 
 ##### Topics Covered:
 
