@@ -34,5 +34,25 @@ Data Compression with Dimensionality Reduction: <A href='http://nbviewer.jupyter
 ##### Topics Covered:
 
 - Principal component analysis
-- Linear Discriminant analysis
+- Linear discriminant analysis
+- Kernel PCA
+
+Model Evaluation and Hyperparameter Tuning: <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Exploring_scikit-learn/blob/master/ml_model_evaluation_and_hyperparameter_tuning.ipynb'>notebook</A><BR>
+
+##### Topics Covered:
+
+- Pipelines 
+- K-fold cross validation
+- Validation curves
+- Grid search
+- Evaluation metrics (ROC curves)
+
+Neural Networks: <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Exploring_scikit-learn/blob/master/ml_NN.ipynb'>notebook</A><BR>
+
+##### Topics Covered:
+
+- Forward/Back propagation
+- Classifying hand written digits
+- Training an artificial neural network
+
 
