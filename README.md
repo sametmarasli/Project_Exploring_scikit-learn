@@ -47,6 +47,41 @@ Model Evaluation and Hyperparameter Tuning: <A href='http://nbviewer.jupyter.org
 - Grid search
 - Evaluation metrics (ROC curves)
 
+Ensemle Learning: <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Exploring_scikit-learn/blob/master/ml_ensemble_learning.ipynb'>notebook</A><BR>
+
+##### Topics Covered:
+
+- Combining different algorithms
+- Bagging
+- Adaptive boosting
+
+Sentiment Analysis: <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Exploring_scikit-learn/blob/master/ml_sentiment_analysis.ipynb'>notebook</A><BR>
+
+##### Topics Covered:
+
+- Bag of Words model
+- TF-ITF
+- Document classification with logistic regression
+- Using online algorithms for sentiment analysis
+
+
+Regression Analaysis: <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Exploring_scikit-learn/blob/master/ml_linear_regression.ipynb'>notebook</A><BR>
+
+##### Topics Covered:
+
+- OLS
+- RANSAC
+- Polynomial Regression 
+
+Clustering: <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Exploring_scikit-learn/blob/master/ml_clustering.ipynb'>notebook</A><BR>
+
+##### Topics Covered:
+
+- K-means
+- Hierarchical clustering
+- Density based clustering
+
+
 Neural Networks: <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Exploring_scikit-learn/blob/master/ml_NN.ipynb'>notebook</A><BR>
 
 ##### Topics Covered:
